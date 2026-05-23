@@ -1,0 +1,12 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/
+.obsidian/themes/
+.trash/
+.DS_Store
+
+# 系统文件
+Thumbs.db
+desktop.ini
